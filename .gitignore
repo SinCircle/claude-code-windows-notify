@@ -1,0 +1,8 @@
+/build/
+*.exe
+*.pdb
+*.log
+*.jsonl
+/state/
+settings*.json
+*.bak
